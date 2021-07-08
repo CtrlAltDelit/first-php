@@ -14,3 +14,7 @@
     margin: 5px 5px 0px 5px;
     max-width: 80%;
 }
+
+#overlay button {
+    margin: 10px 0;
+}
