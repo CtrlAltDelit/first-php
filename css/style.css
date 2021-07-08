@@ -1,5 +1,20 @@
+body {
+    
+}
+
 .card {
     display: block;
     align-items: center;
-    
+    width: 70%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.card-body {
+    max-width: 70%;
+}
+
+.img-bank {
+    margin: 5px 5px 0px 5px;
+    max-width: 80%;
 }
